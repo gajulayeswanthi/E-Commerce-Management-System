@@ -48,6 +48,6 @@ It helps manage users and products with basic shopping operations.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 - gajulayeswanthi
